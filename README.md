@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI recipe app<br>👯 I’m looking to collaborate on any web dev projects<br>🌱 I’m currently learning App development on FNB App Academy<br>
+🔭 I’m currently working on AI recipe app<br>👯 I’m looking to collaborate on any web dev projects<br>🌱 I’m currently learning App development on FNB App Academy<br>I'm asipiring upcoming Webdeveloper<br>I'm also a student at University of South Africa<br>I'm currently studenying towards my Bachelor's degree in Information Scince<br>
 
 
 ## 🌐 Socials:
